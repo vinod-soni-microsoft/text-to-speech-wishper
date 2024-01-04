@@ -18,10 +18,3 @@ Learning to use Whisper for text to speech
 ### Instructor
 
 Vinod Soni
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/denys-linkov).
-
-[lil-course-url]: https://www.linkedin.com/learning/building-apps-with-ai-tools-chatgpt-semantic-kernel-and-langchain?dApp=59033956&leis=LAA
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQENsHoqO_7Y1Q/learning-public-crop_675_1200/0/1694035139061?e=2147483647&v=beta&t=cCnp-C_2NN9JnQM_fHZlVyjfMrGzfgpiGXv5i4Y_5mM
